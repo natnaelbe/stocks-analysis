@@ -4,6 +4,8 @@ after utilizing code.
 #Results
 ## The stocks for 2017 mainly had positive outcomes with favorable returns, whereas the 2018 stock mainly had a negative outcome with unfavorable returns. The code for 2018 executed at 
     a faster pace compared to the code from the previous year.
+    ![VBA_Challenge_ 2017](https://user-images.githubusercontent.com/89429991/200213472-efd89fab-67c1-4896-a41d-331d014edaa0.PNG)
+
 #Summary
 ## An advantage for refactoring code is that you are able to practice what you learned from the modules and apply it to your studies. A disadvantage is that within this refactoring
 you are likely going to encounter errors in your code. You would likely have to debug your program several times until you are clear from any errors.
