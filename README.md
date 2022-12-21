@@ -1,6 +1,5 @@
 #Overview
-## The purpose of this analysis is to observe stocks from 2017, 2018, and make an observation of all stocks. We are refactoring code from the modules and seeing how fast it runs
-after utilizing code.
+## The purpose of this analysis is to observe stocks from 2017, 2018, and make an observation of all stocks. We are refactoring code from the modules and seeing how fast it runs after utilizing code.
 #Results
 ## The stocks for 2017 mainly had positive outcomes with favorable returns, whereas the 2018 stock mainly had a negative outcome with unfavorable returns. The code for 2018 executed at a faster pace compared to the code from the previous year.
 ![VBA_Challenge_ 2017](https://user-images.githubusercontent.com/89429991/200213472-efd89fab-67c1-4896-a41d-331d014edaa0.PNG)
